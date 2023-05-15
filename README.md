@@ -9,6 +9,7 @@
 ### Zeabur 部署示意
 
 ![image](https://user-images.githubusercontent.com/20182252/218993463-0205670a-9ecb-4b15-9613-47e1e5b7aae1.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCaoHuifeng%2Ftwikoo-zeabur.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCaoHuifeng%2Ftwikoo-zeabur?ref=badge_shield)
 
 ### Railway 部署示意
 
@@ -17,3 +18,7 @@
 ## 更新
 
 直接修改 `package.json` 中的版本号
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCaoHuifeng%2Ftwikoo-zeabur.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCaoHuifeng%2Ftwikoo-zeabur?ref=badge_large)
